@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Flutter Demo Home Page 2'),
+          title: const Text('Flutter Demo Home Page'),
           shadowColor: Colors.blue,
         ),
         body: Center(
